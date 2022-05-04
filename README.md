@@ -9,7 +9,7 @@ This download option is much easier as you will not have to go through any requi
 and the tool would be ready to use right after the installation.
 
 Link:
-https://www.mediafire.com/file/fht3x7ky7fm2e5r/HFTCT_Installer_%25281%2529.exe/file
+https://www.mediafire.com/file/d0bgiqycxhqaevk/HFTCT_Installer.exe/file
 
 DOWNLOANDING FROM GITHUB:
 If you plan on downloanding the tool from here, you must review the requirments and instructions listed below.
