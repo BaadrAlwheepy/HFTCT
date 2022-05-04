@@ -12,7 +12,7 @@ Link:
 https://www.mediafire.com/file/fht3x7ky7fm2e5r/HFTCT_Installer_%25281%2529.exe/file
 
 DOWNLOANDING FROM GITHUB:
-If you plan on downloanding the tool from here, you must review the requirments, instructions and Notes listed below.
+If you plan on downloanding the tool from here, you must review the requirments and instructions listed below.
 
 Requirements:
 1- Have Python Installed
